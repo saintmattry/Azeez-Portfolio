@@ -1,9 +1,9 @@
 
-# Ayodeji Daramola — Frontend Developer Portfolio
+# Adeyanju Azezz — Graphic Designer/Product Designer Portfolio
 
 ## Project Overview
 
-A modern, responsive personal portfolio website designed to showcase my frontend development skills, projects, and professional experience.
+A modern, responsive personal portfolio website designed to showcase my Graphic Designer/Product Designer skills, projects, and professional experience.
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@ A modern, responsive personal portfolio website designed to showcase my frontend
 
 ## Project Structure
 
-ayodeji-portfolio/
+Azeez-portfolio/
 │
 ├── index.html
 ├── styles.css
@@ -60,6 +60,6 @@ This portfolio can be deployed using:
 
 ## Author
 
-Ayodeji Daramola
+Adeyanju Azeez
 
-Frontend Developer
+Graphic Designer/Product Designer
